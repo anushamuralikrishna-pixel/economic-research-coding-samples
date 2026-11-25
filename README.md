@@ -26,7 +26,7 @@ The project demonstrates my experience in:
 
 An original coding sample demonstrating my experience applying econometric methods to treatment effects analysis.
 
-[View R coding sample](./treatment-effects-analysis/treatment_effects_analysis.R)
+[View R coding sample](./treatment_effects_analysis/treatment_effects_analysis.R)
 
 ## Contact
 
