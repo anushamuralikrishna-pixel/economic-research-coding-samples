@@ -1,0 +1,2 @@
+spec,term,coef,se,p_value,stars,n,r2,mean_y,sample
+replication experiment,pro_party,0.052780080374849624,0.008624784426608212,9.382081010084155e-10,***,5314,0.3220689256906616,0.581200604134362,replication experiment
